@@ -10,14 +10,14 @@ The project focuses on **building a complete end-to-end software system** by int
 
 ## 📌 Features
 
-✔ Upload traffic images or videos
-✔ Detect vehicles in the scene
-✔ Locate license plate regions
-✔ Extract license plate edges
-✔ Vehicle type classification
-✔ Traffic violation detection (e.g., red-light crossing)
-✔ Bounding box visualization
-✔ Structured report generation
+* ✔ Upload traffic images or videos
+* ✔ Detect vehicles in the scene
+* ✔ Locate license plate regions
+* ✔ Extract license plate edges
+* ✔ Vehicle type classification
+* ✔ Traffic violation detection (e.g., red-light crossing)
+* ✔ Bounding box visualization
+* ✔ Structured report generation
 
 ---
 

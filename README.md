@@ -151,7 +151,7 @@ We utilize publicly available datasets and repositories for training and evaluat
 * **Shalvi Surve** – Backend, Documentation
 * **Diya Baidya** – Frontend
 * **Amisha Raj** – Frontend
-* **Astha Narain** – Backend
+* **Aastha Narain** – Backend
 
 ---
 

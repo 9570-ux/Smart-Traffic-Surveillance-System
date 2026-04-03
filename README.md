@@ -20,6 +20,27 @@ The project focuses on **building a complete end-to-end software system** by int
 * ✔ Structured report generation
 
 ---
+## 👩‍💻 My Contribution
+
+* Developed frontend interface for user interaction
+* Assisted in integrating backend with frontend
+* Worked on UI design and responsiveness
+* Contributed to testing and debugging
+* Collaborated with team on project development
+
+## 🤝 Project Note
+
+This project was developed as part of a group project.
+
+My role: Frontend Developer / Team Contributor
+
+## 👤 Author
+
+Amisha Raj
+
+
+
+
 
 ## 🧠 System Workflow
 
